@@ -1,6 +1,6 @@
 # BonziRogue
 A PUP software based on the BonziBuddy virtual assistant, but more annoying.
-Also, the original has been copied and remade so there is no swears or adult relations
+Also, the original has been copied and remade so there is no swears or adult stuff.
 
 To build/edit, open BonzVir.msh or BonziRogue.cls in MASH http://bellcraft.com/mash/ end export as an executable, assets are included in Release 1.
 
