@@ -1,6 +1,6 @@
 # BonziRogueClean
-## Note from future me (January 2021)
-Hey. This is just terrible code I made years ago. All I did in this garbage software was replace the swears with lame rhymes, for the one person out there that wanted a clean version. I'm leaving this up, but not because it's good. It's terrible code that I made, back when my stupid self wanted to write for a deprecated toolset, that would eventually break on Windows 10 because of its ancient code when Windows XP was relevant. Enjoy.
+## Note
+this is dogshit, also that previous note was autistic as hell
 ## Original README
 A PUP software based on the BonziBuddy virtual assistant, but more annoying.
 Also, the original has been copied and remade so it is PG.
